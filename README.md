@@ -1,7 +1,10 @@
 # Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation 
 
 ## Introduction
-This is the official code of [Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://arxiv.org/pdf/2103.11594.pdf) (Accepted by AAAI-2022 Oral). 
+This is the official code of 
+-[Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://arxiv.org/pdf/2103.11594.pdf) (AAAI-2022 Oral). 
+
+-[Elucidating Meta-Structures of Noisy Labels in Semantic Segmentation by Deep Neural Networks](https://arxiv.org/pdf/2205.00160v1.pdf) (under review)
 
 ---
 
