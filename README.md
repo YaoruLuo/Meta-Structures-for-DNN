@@ -2,9 +2,10 @@
 
 ## Introduction
 This is the official code of 
--[Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://arxiv.org/pdf/2103.11594.pdf) (AAAI-2022 Oral). 
 
--[Elucidating Meta-Structures of Noisy Labels in Semantic Segmentation by Deep Neural Networks](https://arxiv.org/pdf/2205.00160v1.pdf) (under review)
+[Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation](https://www.aaai.org/AAAI22Papers/AAAI-12729.LuoY.pdf) (AAAI-2022 Oral). 
+
+[Elucidating Meta-Structures of Noisy Labels in Semantic Segmentation by Deep Neural Networks](https://arxiv.org/pdf/2205.00160v1.pdf) (under review)
 
 ---
 
@@ -64,7 +65,7 @@ Then, you can run **evaluation/inference.py** to get different metrics scores su
 ## Reference
 [1] Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. 
 Yaoru Luo, Guole Liu, Yuanhao Guo, Ge Yang
-Accepted by AAAI-22. [download](https://arxiv.org/pdf/2103.11594.pdf)
+Accepted by AAAI-22. [download](https://www.aaai.org/AAAI22Papers/AAAI-12729.LuoY.pdf)
 
 ---
 
